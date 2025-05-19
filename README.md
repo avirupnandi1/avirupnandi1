@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)](https://AvirupN.io)
 
 <h1 align="center">Hey 👋, I'm Avirup Nandi</h1>
-<h3 align="center">Assistant Software Engineer @Channelplay| Flutter Developer | Explorer</h3>
+<h3 align="center">Assistant Software Engineer @Channelplay | Flutter Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
